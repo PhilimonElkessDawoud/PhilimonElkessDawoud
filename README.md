@@ -93,14 +93,14 @@ const philimon = {
 
 <div align="center">
 
-| Project | Description | Stack | Live |
-|--------|-------------|-------|------|
-| 🚚 **Shipment Tracker** | Real-time shipment tracking with WebSockets | Angular · Spring Boot · Docker | [▶ Live](https://shipment-tracker-self.vercel.app) |
-| ✅ **Task Manager** | Clean task management web app | Angular · Tailwind CSS | [▶ Live](https://task-manager-peach-beta-37.vercel.app) |
-| 🏥 **Patient Management** | Backend system for managing patients | Spring Boot · PostgreSQL | [📁 Repo](https://github.com/PhilimonElkessDawoud/Patient-Management-System) |
-| 📚 **Library Management** | BookWise — library management system | Spring Boot · MySQL | [📁 Repo](https://github.com/PhilimonElkessDawoud/BookWise) |
-| 🛒 **Online Marketplace** | E-commerce marketplace backend | Django · PostgreSQL | [📁 Repo](https://github.com/PhilimonElkessDawoud/Online_Marketplace--Django) |
-| 👗 **Clothing Store** | Full stack e-commerce application | Angular · Spring Boot | [📁 Repo](https://github.com/PhilimonElkessDawoud/ecommerce-full-stack-project) |
+| Project | Description | Stack | Repo | Live |
+|--------|-------------|-------|------|------|
+| 🚚 **Shipment Tracker** | Real-time shipment tracking with WebSockets | Angular · Spring Boot · Docker | [📁 Repo](https://github.com/PhilimonElkessDawoud/Shipment-Tracker) | [▶ Live](https://shipment-tracker-self.vercel.app) |
+| ✅ **Task Manager** | Clean task management web app | Angular · Tailwind CSS | [📁 Repo](https://github.com/PhilimonElkessDawoud/task-manager) | [▶ Live](https://task-manager-peach-beta-37.vercel.app) |
+| 🏥 **Patient Management** | Backend system for managing patients | Spring Boot · PostgreSQL | [📁 Repo](https://github.com/PhilimonElkessDawoud/Patient-Management-System) | — |
+| 📚 **Library Management** | BookWise — library management system | Spring Boot · MySQL | [📁 Repo](https://github.com/PhilimonElkessDawoud/BookWise) | — |
+| 🛒 **Online Marketplace** | E-commerce marketplace backend | Django · PostgreSQL | [📁 Repo](https://github.com/PhilimonElkessDawoud/Online_Marketplace--Django) | — |
+| 👗 **Clothing Store** | Full stack e-commerce application | React · Laravel | [📁 Repo](https://github.com/PhilimonElkessDawoud/ecommerce-full-stack-project) | — |
 
 </div>
 
