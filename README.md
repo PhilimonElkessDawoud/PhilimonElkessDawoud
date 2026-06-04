@@ -106,30 +106,12 @@ const philimon = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PhilimonElkessDawoud&show_icons=true&theme=dark&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&bg_color=1a1a1a&border_color=FF6B35&hide_border=false" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PhilimonElkessDawoud&theme=dark&background=1a1a1a&border=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilimonElkessDawoud&layout=compact&theme=dark&title_color=FF6B35&text_color=ffffff&bg_color=1a1a1a&border_color=FF6B35" width="40%" />
-
-</div>
-
----
-
 ## 🌍 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philimonekladyous/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://philimon-portfolio-pied.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philimonelkessdaoud@gmail.com)
 
 </div>
