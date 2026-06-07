@@ -21,7 +21,7 @@ const philimon = {
   location:   "Lyon, France 🇫🇷",
   education:  "Engineering Graduate — Polytech Lyon",
   role:       "Full Stack Developer",
-  languages:  ["French", "English", "Arabic"],
+  languages:  ["French", "English"],
   openTo:     "CDI — Mobilité géographique",
   funFact:    "I treat every project like an engineering problem 🔧"
 };
